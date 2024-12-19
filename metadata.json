@@ -1,0 +1,19 @@
+{
+    "title": "datasette-auth-github demo",
+    "plugins": {
+        "datasette-auth-github": {
+            "client_id": {"$env": "Ov23liIIbteSbp2rlxtW"},
+            "client_secret": {"$env": "3bccabecb1501ad11935daf1c2abbf3630ec9af5"}
+        }
+    }
+}
+{
+    "allow": {
+        "id": "*"
+    },
+    "plugins": {
+        "datasette-auth-github": {
+            "Ov23liIIbteSbp2rlxtW": "3bccabecb1501ad11935daf1c2abbf3630ec9af5"
+        }
+    }
+}
