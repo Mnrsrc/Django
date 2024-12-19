@@ -7,3 +7,13 @@
         }
     }
 }
+{
+    "allow": {
+        "id": "*"
+    },
+    "plugins": {
+        "datasette-auth-github": {
+            "...": "..."
+        }
+    }
+}
