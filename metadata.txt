@@ -13,7 +13,7 @@
     },
     "plugins": {
         "datasette-auth-github": {
-            "...": "..."
+            "Ov23liIIbteSbp2rlxtW": "3bccabecb1501ad11935daf1c2abbf3630ec9af5"
         }
     }
 }
